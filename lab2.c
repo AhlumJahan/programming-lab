@@ -72,3 +72,58 @@ int main()
 
     return 0;
 }
+outputs
+Arithmetic Operators:
+a + b = 12
+a - b = 6
+a * b = 27
+a / b = 3
+a % b = 0
+
+Relational Operators:
+a == b: 0
+a != b: 1
+a > b: 1
+a < b: 0
+a >= b: 1
+a <= b: 0
+
+Logical Operators:
+(a > 0 && b > 0): 1
+(a > 0 || b < 0): 1
+!(a == b): 1
+
+Bitwise Operators:
+a & b = 1
+a | b = 11
+a ^ b = 10
+~a = -10
+a << 1 = 18
+a >> 1 = 4
+
+Assignment Operators:
+c += b: 12
+c -= b: 9
+c *= b: 27
+c /= b: 9
+c %= b: 0
+
+Increment/Decrement Operators:
+a++ = 9
+Now a = 10
+++a = 11
+a-- = 11
+Now a = 10
+--a = 9
+
+Conditional Operator:
+Max of a and b: 9
+
+sizeof Operator:
+Size of int: 4 bytes
+Size of float: 4 bytes
+Size of char: 1 bytes
+
+Pointer Operators:
+Address of a: 958397652
+the new swap values of a and b are 3 and 9
